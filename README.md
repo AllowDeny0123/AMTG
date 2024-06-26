@@ -20,7 +20,7 @@ AMTG (Automatic Malicious Traffic Generator) - tool that generates suspicious ac
 ## Cons
 - Config cannot be filled with target subnet. Only single hosts addresses
 - To use additional flags in utility invoke you need to change the code
-## WIP
+## WIP (Work in progress)
 - Standalone version (You don't have to install required utilities). Will improve compatibility but may cause lost of fingerprint realism. Will be a separate release
 - Subnets in config (You don't have to write addresses of every single host you want to taget if they're in the same subnet)
    
