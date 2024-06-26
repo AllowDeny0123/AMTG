@@ -8,6 +8,11 @@ AMTG (Automatic Malicious Traffic Generator) - tool that generates suspicious ac
 - samba-client
 - nmap
 - python >3.10
+## Installation
+- Clone this repository
+- Ensure all of required utilities installed in your system
+- Edit config.json
+- Run main.py     
 ## Pros
 - It uses Linux utilities instead python implementation. It gives more realistic fingerprint of suspicious activity
 - Easy to add your own utility by writing minimal amount of code
